@@ -1,0 +1,11 @@
+.ignite-glow{
+color: #FFD700;
+text-shadow: 
+    0 0 5px #fff6cc,
+    0 0 10px #997b05,
+    0 0 20px #ffcc00,
+    0 0 40px #ffcc00,
+    0 0 80px #ffaa00;
+    animation: pulseGlow 2s infinite ease-in-out;
+
+}
